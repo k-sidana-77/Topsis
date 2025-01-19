@@ -1,4 +1,4 @@
-# TOPSIS Implementation
+# TOPSIS
 
 ## Command Line Implementation
 Command to run:
@@ -50,7 +50,7 @@ M8,0.93,0.86,3.4,37.0,10.55,0.4085,7
 - Numeric values validation
 - Weights and impacts count validation
 - Impact symbols must be + or -
-## Program 2: PyPI Package
+## PyPI Package
 This implementation is available as a Python package on ['https://pypi.org/project/Topsis-Kartik-102203789/'](https://pypi.org/project/Topsis-Kartik-102203789/). You can easily install it via `pip`:
 
 ```bash
